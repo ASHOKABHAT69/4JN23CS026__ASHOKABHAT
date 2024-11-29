@@ -3,3 +3,12 @@ You are Skilled in ongoing Technologies.
 You have been hired as SDE-1!!
 git log -n --pretty=format:"%h-%an, %ar : %s" 1a2b3c4 
 
+git config --global-unset-all user.name
+
+git config --global user.name "ASHOKABHAT69"
+
+git config --global user.email "ashokabhatfsd@gmail.com"
+
+git log --oneline origin/main
+
+
